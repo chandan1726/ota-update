@@ -1,0 +1,9 @@
+git init
+npm init
+npm link
+npm link ota-dfu
+npm login
+npm publish
+
+
+https://www.freecodecamp.org/news/how-to-create-and-publish-your-first-npm-package

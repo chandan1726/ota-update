@@ -1,0 +1,31 @@
+{
+  "name": "ota-dfu",
+  "version": "1.0.0",
+  "description": "OTA update on ble device",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandan1726/ota-update.git"
+  },
+  "keywords": [
+    "OTA",
+    "update",
+    "OTA-DFU",
+    "silicon",
+    "labs",
+    "OTA",
+    "update",
+    "BLE",
+    "OTA",
+    "update"
+  ],
+  "author": "chandan tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandan1726/ota-update/issues"
+  },
+  "homepage": "https://github.com/chandan1726/ota-update#readme"
+}
